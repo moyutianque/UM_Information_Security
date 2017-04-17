@@ -1,6 +1,8 @@
-# CISB461-Information Security  Assignment2
+# CISB461-Information Security  Assignment
 
 Wang Zehao DB427041
+
+run program assign2.m
 
 ### Message Encoding
 
